@@ -1,0 +1,12 @@
+{
+    "pathsToAnalyze": [
+        "**/contracts/src/v0.8/ccip/onRamp/OnRamp.sol",
+        "**/contracts/src/v0.8/ccip/NonceManager.sol",
+        "**/contracts/src/v0.8/ccip/FeeQuoter.sol",
+        "**/contracts/src/v0.8/ccip/capability/CCIPHome.sol",
+        "**/contracts/src/v0.8/ccip/MultiAggregateRateLimiter.sol",
+        "**/contracts/src/v0.8/ccip/offRamp/OffRamp.sol",
+        "**/contracts/src/v0.8/ccip/rmn/RMNHome.sol",
+        "**/contracts/src/v0.8/ccip/rmn/RMNRemote.sol"
+    ]
+}
